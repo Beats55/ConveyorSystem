@@ -1,0 +1,8 @@
+org\barclays\assignment\Flight.class
+org\barclays\assignment\Departure.class
+org\barclays\assignment\ConveyorSystem.class
+org\barclays\assignment\Node.class
+org\barclays\assignment\Bag.class
+org\barclays\assignment\ShortestDistance.class
+org\barclays\assignment\ConveyorGraph.class
+org\barclays\assignment\IConveyorGraph.class
